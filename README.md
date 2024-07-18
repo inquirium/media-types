@@ -8,6 +8,7 @@ These identifiers include among others:
 - FOURCC
 - WAVEFORMAT
 - [libavcodec](https://ffmpeg.org/libavcodec.html) codec ID
+- [Apple Core Audio Types](https://developer.apple.com/documentation/coreaudiotypes/1572096-audio_format_identifiers)
 
 The list should be fairly complete for popular formats. If you spot any errors or missing formats, please create a pull request.
 
